@@ -1,0 +1,1 @@
+INSERT INTO   exEmployees (id, employeeNumber, lastName, firstName, extension, email, officeCode, reportsTo, jobTitle, deletedAt) VALUES (1, 3222, 'Kevin', 'Gracia', 'x322', 'keivngo@classicmodelcars.com', '4', 1102, 'Admin', '2020-06-22 18:01:59');
